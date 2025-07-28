@@ -153,6 +153,7 @@ npm i cors@2.8.5
 <br>
 
 https://bg.ibelick.com/
+<br>
 for background
 
 ---
@@ -188,8 +189,7 @@ git commit -m "initial commit"
 
 <br>
 
-https://github.com/ShailPatel27/MERN-ThinkBoard.git
-Make a repository on github
+[Make a repository on github](https://github.com/ShailPatel27/MERN-ThinkBoard.git)
 
 <br>
 

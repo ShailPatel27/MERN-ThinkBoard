@@ -118,3 +118,7 @@ git add .
 git commit -m "prepared for the deployment"
 git push
 <!-- Final commit -->
+
+<!-- in render, when deploying, change build and run commands to "npm run build" "npm run start" -->
+
+<h4>The app is now deployed🎉</h4>
